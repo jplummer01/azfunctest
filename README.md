@@ -1,6 +1,6 @@
 # AZFuncTest
 
-AZFuncTest is a simply Azure Function Test App
+AZFuncTest is a simple Azure Function Test App
 
 ## Installation
 //ToDo
