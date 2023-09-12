@@ -9,4 +9,4 @@ AZFuncTest is a simply Azure Function Test App
 //ToDo
 
 ## Licence
-MIT see README.md
+MIT see Licence.txt
